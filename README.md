@@ -41,8 +41,9 @@ Users can create posts, generate content using AI, save drafts, and mark posts a
 
 Clone the project and install dependencies.
 
-### Backend
+### Frontend
 
 ```bash
-cd backend
+cd Frontend
 npm install
+npm run dev
